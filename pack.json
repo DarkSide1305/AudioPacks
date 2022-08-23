@@ -1,0 +1,9 @@
+{
+  "name": "Slime Pack",
+  "description": "A Audio Pack themed all around Slimes!",
+  "author": "DarkSide1305",
+  "version": "v1.0",
+  "manifest_version": 1,
+  "music": false,
+  "ignore": []
+}
