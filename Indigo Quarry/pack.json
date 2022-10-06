@@ -1,0 +1,9 @@
+{
+  "name": "Indigo Quarry",
+  "description": "Slime Rancher - Indigo Quarry (Day)",
+  "author": "DarkSide1305",
+  "version": "v1.0",
+  "manifest_version": 1,
+  "music": true,
+  "ignore": []
+}
